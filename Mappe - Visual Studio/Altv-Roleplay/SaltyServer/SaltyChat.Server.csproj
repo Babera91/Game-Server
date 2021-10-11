@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	  <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>../../../Server/resources/SaltyClient/Server</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net.Async" Version="4.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

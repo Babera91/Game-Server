@@ -1,0 +1,21 @@
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\bin\Debug\netcoreapp3.1\SaltyChat.Server.deps.json
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\bin\Debug\netcoreapp3.1\SaltyChat.Server.dll
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\bin\Debug\netcoreapp3.1\SaltyChat.Server.pdb
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.csprojAssemblyReference.cache
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.AssemblyInfoInputs.cache
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.AssemblyInfo.cs
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.dll
+C:\Users\Timo\Downloads\saltychat-altv-master (1)\saltychat-altv-master\SaltyChat.Server\obj\Debug\netcoreapp3.1\SaltyChat.Server.pdb
+D:\Github\script-a\Server\resources\SaltyClient\netcoreapp3.1\SaltyChat.Server.deps.json
+D:\Github\script-a\Server\resources\SaltyClient\netcoreapp3.1\SaltyChat.Server.dll
+D:\Github\script-a\Server\resources\SaltyClient\netcoreapp3.1\SaltyChat.Server.pdb
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.csprojAssemblyReference.cache
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.AssemblyInfoInputs.cache
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.AssemblyInfo.cs
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.csproj.CoreCompileInputs.cache
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.dll
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\netcoreapp3.1\SaltyChat.Server.pdb
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\bin\Debug\netcoreapp3.1\SaltyChat.Server.deps.json
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\bin\Debug\netcoreapp3.1\SaltyChat.Server.dll
+D:\Github\script-a\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\bin\Debug\netcoreapp3.1\SaltyChat.Server.pdb

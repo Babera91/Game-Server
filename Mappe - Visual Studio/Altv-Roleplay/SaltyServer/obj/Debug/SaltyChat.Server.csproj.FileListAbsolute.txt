@@ -1,0 +1,12 @@
+D:\Github\script-a-rework\Server\resources\SaltyClient\Server\SaltyChat.Server.deps.json
+D:\Github\script-a-rework\Server\resources\SaltyClient\Server\SaltyChat.Server.runtimeconfig.json
+D:\Github\script-a-rework\Server\resources\SaltyClient\Server\SaltyChat.Server.runtimeconfig.dev.json
+D:\Github\script-a-rework\Server\resources\SaltyClient\Server\SaltyChat.Server.dll
+D:\Github\script-a-rework\Server\resources\SaltyClient\Server\SaltyChat.Server.pdb
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.AssemblyInfoInputs.cache
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.AssemblyInfo.cs
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.csproj.CoreCompileInputs.cache
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.dll
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.pdb
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.genruntimeconfig.cache
+D:\Github\script-a-rework\Mappe - Visual Studio\Altv-Roleplay\SaltyServer\obj\Debug\SaltyChat.Server.csprojAssemblyReference.cache

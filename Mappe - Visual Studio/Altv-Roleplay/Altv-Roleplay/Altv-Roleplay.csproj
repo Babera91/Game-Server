@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Altv_Roleplay</RootNamespace>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>../../../Server/resources/roleplay</OutputPath>
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net.Async" Version="6.0.2" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="1.48.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DiscordLog\DiscordLog.csproj" />
+  </ItemGroup>
+
+</Project>
